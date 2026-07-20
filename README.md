@@ -761,14 +761,3 @@ Inspired by research areas including:
 * Representation Learning
 * AI Alignment
 * Neural Network Analysis
-
-```
-
-This is the full repository-level README and can be saved directly as:
-
-```
-
-README.md
-
-```
-```
